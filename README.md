@@ -60,7 +60,7 @@ Everything you need to manage your Zius account and API integrations:
 To install this node in your self-hosted n8n instance:
 1. Go to **Settings > Community Nodes**.
 2. Click **Install a community node**.
-3. Enter `n8n-nodes-zius` and click **Install**.
+3. Enter `n8n-nodes-zius-whatsapp` and click **Install**.
 
 ## 🔐 Credentials
 To use this node, grab your **API Secret** and **WhatsApp Account Unique ID** from your [Zius Dashboard](https://zius.uk/dashboard/tools/keys). In n8n, add the Zius node to your canvas, click **Create New Credential**, and securely paste your details.
